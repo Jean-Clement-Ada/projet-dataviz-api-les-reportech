@@ -34,7 +34,6 @@ h1 {
 }
 
 /* ---tentative de titre en cascade--- */
-
 /* body {
     background: #fff;
     font-family: "Comfortaa", sans-serif;
@@ -45,27 +44,27 @@ h1 {
     box-sizing: border-box;
   } */
   
-  /* .main-content {
+  .main-content {
     text-align: center;
     text-transform: uppercase;
     scroll-snap-type: y mandatory;
     position: relative;
     height: 100vh;
     overflow-y: scroll;
-  } */
+  }
   
-  /* .hover,
+  .hover,
   .word,
   h1 {
     cursor: pointer;
-  } */
+  }
   
-  /* h1 {
+  h1 {
     position: relative;
     color: #fff;
     font: 900 60px Montserrat;
     text-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-  } */
+  }
   
   /* .concept {
     position: relative;
@@ -74,7 +73,7 @@ h1 {
     overflow: hidden;
     scroll-snap-align: center;
   } */
-  /* .concept:before {
+  .concept:before {
     content: "";
     position: absolute;
     width: 100%;
@@ -87,9 +86,11 @@ h1 {
   }
   .concept:hover:before {
     opacity: 0.5;
-  } */
-
-/* .concept-eight {
+  }
+  
+  
+  
+  /* .concept-eight {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -137,6 +138,7 @@ h1 {
       top: 100px;
     }
   }
+
 /* --- fin de tentative de titre en cascade--- */
 
 /* .mylogo{
